@@ -7,7 +7,7 @@ Shery.mouseFollower({
 
 Shery.textAnimate("#heading" /* Element to target.*/, {
   //Parameters are optional.
-  style: 2,
+  style: 1,
   y: 10,
   delay: 0.1,
   duration: 2,
