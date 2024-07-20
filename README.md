@@ -1,6 +1,6 @@
-# Incredible Fashion: Your Ultimate Fashion Destination
+# UnIncredible Fashion: Your Badest Fashion Destination. 
 
-Welcome to Incredible Fashion, where style meets elegance! Our website is designed to showcase the latest trends in fashion, offering a wide range of clothing options that cater to every style and occasion.
+Welcome to UnIncredible Fashion, where style meets badness! Our website is designed to showcase the old trends in fashion, offering a lower range of clothing options that cater to every style and occasion.
 
 ## Features
 
